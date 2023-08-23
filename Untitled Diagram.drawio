@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-23T20:05:04.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="FwVQaDdqCUH2YYOxN8-m" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-23T20:11:31.532Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/116.0" etag="yZ5udJ5A-8lymUUa08PY" version="21.6.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="651" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="651" dy="1597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -80,6 +80,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="460" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cfMi4mPIohUs9H0kdkPe-8" value="&lt;div align=&quot;center&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;Syntax Slayers&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="265" y="-40" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
